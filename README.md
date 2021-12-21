@@ -4,10 +4,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=969ali969&theme=radical)
 
-I dont know about me!
+I dont know about Me!
 
-## Skills: PYTHON / REACT / JS / HTML / CSS / C / KALILINUX / NETWORK / SQL
+## Skills and Experience
+* Python
+* C 
+* HTML, CSS, JS, SQL
 
-- Learning REACT / DJANGO 
+## Learning 
+* React 
+* Django
 
 
