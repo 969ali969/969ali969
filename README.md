@@ -1,8 +1,8 @@
 # Ali Shafiei
 
-I dont know about Me!
-I guess i might be 19 by now!
-LLJW 
+* I dont know about Me!
+* I guess i might be 19 by now!
+* LLJW 
  
 ## Skills and Experience
 * Python
