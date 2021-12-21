@@ -4,7 +4,7 @@
 
 I dont know about me!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=969ali969_icons=true&theme=radical)
 
 Skills: PYTHON / REACT / JS / HTML / CSS / C / KALILINUX / NETWORK / SQL
 
