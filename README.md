@@ -1,7 +1,7 @@
 # Ali Shafiei
 
 * I dont know about Me!
-* I guess i might be 19 by now!
+* I guess i might be 19 by now! dam time goes fast
 * LLJW 
  
 ## Skills and Experience
