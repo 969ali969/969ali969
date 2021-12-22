@@ -15,4 +15,4 @@
 * Git
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=969ali96&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=969ali969&theme=radical)
