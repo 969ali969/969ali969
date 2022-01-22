@@ -16,3 +16,4 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=969ali969&theme=radical)
+![alt text](https://cdn.discordapp.com/attachments/482838898071044098/934372651034636288/CS50xCertificate.png)
