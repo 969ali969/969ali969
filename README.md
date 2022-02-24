@@ -9,7 +9,7 @@ I'm Ali Shafiei a Full stack web developer, a computer science lover,
 <!-- TODO: Add last video link -->
 
 <!-- - 🔭 I’m currently working at @Toptal -->
-- 📫 How to reach me: alishafiei2002@gmail.com.
+- 📫 How to reach me: 0913alishafiei@gmail.com.
 - ⚡ I can spend my hole day learning about CS.
 
 #### Top Technologies
