@@ -16,7 +16,7 @@ I'm Ali Shafiei a Full stack web developer, a computer science lover,
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/JS-React-red)](#) [![Django Badge](https://img.shields.io/badge/Python-Django-black)](#) [!  [![Django Badge](https://img.shields.io/badge/-SQL-ff69b4)](#)
+[![Javascript Badge](https://img.shields.io/badge/JS-React-red)](#) [![Django Badge](https://img.shields.io/badge/Python-Django-black)](#) [Django Badge](https://img.shields.io/badge/-SQL-ff69b4)](#)
 
 ### All skills
 
@@ -51,10 +51,9 @@ I love Sitting on my chair and learning everything i find about computer science
 
 <!--START_SECTION:waka-->
 ```text
-Python       80 hrs 00 mins  ███████████████████░░░░░░   70 % 
-JavaScript   60 hrs 00 mins  ████████████████░░░░░░░░░   60 % 
-HTML         60 hrs 00 mins  █████████████░░░░░░░░░░░░   50 % 
-CSS          60 hrs 00 mins  █████████████░░░░░░░░░░░░   50 % 
+Python       100 hrs 00 mins ███████████████████░░░░░░   70 % 
+Django       60 hrs 00 mins  ████████████████░░░░░░░░░   60 % 
+React        30 hrs 00 mins  █████████████░░░░░░░░░░░░   50 % 
 C            30 hrs          ████████░░░░░░░░░░░░░░░░░   20 % 
 Others       2 hrs           ████░░░░░░░░░░░░░░░░░░░░░   10 % 
 ```
