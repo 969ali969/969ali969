@@ -16,7 +16,7 @@ I'm Ali Shafiei a Full stack web developer, a computer science lover,
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Django Badge](https://img.shields.io/badge/-CSS-gray)](#) [![Django Badge](https://img.shields.io/badge/-SQL-ff69b4)](#) [![Django Badge](https://img.shields.io/badge/Python-Django-black)](#)
+[![Django Badge](https://img.shields.io/badge/JS-React-red)](#) [![Django Badge](https://img.shields.io/badge/Python-Django-black)](#) [![Django Badge](https://img.shields.io/badge/-SQL-ff69b4)](#)
 
 ### All skills
 
